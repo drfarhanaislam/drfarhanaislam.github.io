@@ -5,7 +5,9 @@ layout: default
 <br>
 {% include page/post-page-title.html %}
 
-{% include post/splash_image.html %}
+{% unless page.layout == "post" %}
+  {% include post/splash_image.html %}
+{% endunless %}
 
 <br>
 <div class="post_wrapper">
