@@ -1,13 +1,12 @@
-- name: Portfolio # Project name, also used as heading
-  id: FI # Project id, must be unique amongst the projects
-  img_src: /assets/img/connectpie-page.png # Optional image
-  description_less: This part of the project description is visible at all times. # Description shown at all times, text only
+- name: Genetic contribution to antidepressant outcomes in depression # Project name, also used as heading
+  id: mdd # Project id, must be unique amongst the projects
+  img_src: https://www.nps.org.au/assets/_750x468_crop_center-center_75_none/GettyImages-964255850.jpg # Optional image
+  description_less: How does your genetics effect how you respond to antidepressants and the side effects you experience? # Description shown at all times, text only
   description_more: > # Description shown only when the project card is expanded, HTML only
-    <p>This part is only seen when you click on the project card.</p> 
+    <p>My research on the effects of genetic and epigenetic variation on how individuals diagnosed with depression responds to antidepressants and the side effects they experience. </p> 
   action_buttons: > # Action buttons for project, HTML only
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
-  tags: [tag1, tag2] # A list of tags
+    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Research</a>
+  tags: [antidepressant, depression, epigenetics, genetics, cytochrome] # A list of tags
 
 - name: Dr. Farhana Islam
   id: FI
@@ -20,7 +19,7 @@
     <a href="https://ritijjain.com/2020/09/12/pudhina-fresh.html" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
   tags: [jekyll, open-source]
 
-- name: Project Two
+- name: Pharmacogenetics and schizophrenia
   id: p2
   img_src: 
   description_less: Refer to docs to learn how to add your own projects.
