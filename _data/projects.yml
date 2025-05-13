@@ -10,37 +10,15 @@
     </a>
   tags: [antidepressant, depression, epigenetics, genetics, cytochrome] # A list of tags
 
-- name: Dr. Farhana Islam
-  id: FI
-  img_src: 
-  description_less: Researcher | Educator | Life-Long Learner
-  description_more: >
-    <p>Portfolio of Dr. Farhana Islam.</p>
-  action_buttons: >
-    <a href="https://github.com/ritijjain/pudhina-fresh" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-    <a href="https://ritijjain.com/2020/09/12/pudhina-fresh.html" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
-  tags: [jekyll, open-source]
 
-- name: Pharmacogenetics and schizophrenia
-  id: p2
-  img_src: 
-  description_less: Refer to docs to learn how to add your own projects.
-  description_more: >
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-  action_buttons: >
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
-  tags: [tag3, docs]
-
-- name: Project Three
-  id: p3
+- name: Pharmacogenetics of antipsychotics in schizophrenia
+  id: scz
   img_src: /assets/img/weatherpie-page.png
-  description_less: Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam.
+  description_less: How can we improve antipsychotic outcomes for individuals with schizophrenia?
   description_more: >
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    <p>I investigated the contribution of genetic variation on the effect of clozapine, a commonly prescribed antipsychotic, on working memory deficits and risk for side effects in individuals with schizophrenia.</p>
   action_buttons: >
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
-  tags: [tag2, tag4]
+    <a href="/project/mdd-publications/" class="btn btn-dark mb-1" target="_blank">
+    <i class="fas fa-align-right"></i> &nbsp Research
+    </a>
+  tags: [schizophrenia, pharmacogenetics, clozapine]
