@@ -1,6 +1,6 @@
-- name: Genetics of antidepressant outcomes in depression # Project name, also used as heading
+- name: Antidepressant response and side effects in depression # Project name, also used as heading
   id: mdd # Project id, must be unique amongst the projects
-  img_src: https://www.drugdiscoverytrends.com/wp-content/uploads/2019/09/ddd1607_antidepressants.jpg # Optional image
+  img_src: /assets/img/mdd.png # Optional image
   description_less: How does your genetics effect how you respond to antidepressants and the side effects you experience? # Description shown at all times, text only
   description_more: > # Description shown only when the project card is expanded, HTML only
     <p>My doctoral research investigated the affects of genetic and epigenetic variation on how individuals diagnosed with depression responds to antidepressants and the side effects they experience. </p> 
@@ -11,9 +11,9 @@
   tags: [antidepressant, depression, epigenetics, genetics, cytochrome] # A list of tags
 
 
-- name: Pharmacogenetics of antipsychotics in schizophrenia
+- name: Antipsychotics for the management of schizophrenia
   id: scz
-  img_src: /assets/img/weatherpie-page.png
+  img_src: /assets/img/clz.jpg
   description_less: How can we improve antipsychotic outcomes for individuals with schizophrenia?
   description_more: >
     <p>I investigated the contribution of genetic variation on the effect of clozapine, a commonly prescribed antipsychotic, on working memory deficits and risk for side effects in individuals with schizophrenia.</p>
