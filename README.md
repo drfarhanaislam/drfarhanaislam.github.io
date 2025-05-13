@@ -1,5 +1,5 @@
-# Pudhina Fresh
-A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
+# Dr. Farhana Islam
+Researcher | Educator | Life-Long Learner
 
 Live Demo: [ritijjain.github.io/pudhina-fresh](https://ritijjain.github.io/pudhina-fresh), [ritijjain.com](https://ritijjain.com/)
 
