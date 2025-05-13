@@ -1,4 +1,4 @@
-- name: Antidepressant response and side effects in depression # Project name, also used as heading
+- name: Antidepressants and depression # Project name, also used as heading
   id: mdd # Project id, must be unique amongst the projects
   img_src: /assets/img/mdd.png # Optional image
   description_less: How does your genetics effect how you respond to antidepressants and the side effects you experience? # Description shown at all times, text only
@@ -11,7 +11,7 @@
   tags: [antidepressant, depression, epigenetics, genetics, cytochrome] # A list of tags
 
 
-- name: Antipsychotics for the management of schizophrenia
+- name: Antipsychotics and schizophrenia
   id: scz
   img_src: /assets/img/clz.jpg
   description_less: How can we improve antipsychotic outcomes for individuals with schizophrenia?

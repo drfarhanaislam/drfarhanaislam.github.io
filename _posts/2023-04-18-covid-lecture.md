@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Lecture on Management of COVID-19
-date:   2022-01-25
+date:   2023-04-03
 updated: 2025-05-13
 tags: [outreach, covid, lecture]
 splash_img_source: /assets/img/pharmacy_lecture.jpg
