@@ -11,12 +11,9 @@ I was invited to give a guest lecture on the management of COVID-19 illustrated 
 
 1/3
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LUWrOgRnXaY?si=yxbDJz64FiZUFVGU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
   <iframe 
-    src="https://www.youtube.com/watch?v=LUWrOgRnXaY" 
+    src="https://www.youtube.com/embed/LUWrOgRnXaY" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen 
@@ -27,7 +24,7 @@ I was invited to give a guest lecture on the management of COVID-19 illustrated 
 2/3
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
   <iframe 
-    src="https://www.youtube.com/watch?v=VHg3wzzXxe4" 
+    src="https://www.youtube.com/embed/VHg3wzzXxe4" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen 
@@ -38,7 +35,7 @@ I was invited to give a guest lecture on the management of COVID-19 illustrated 
 3/3
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
   <iframe 
-    src="https://www.youtube.com/watch?v=BDK4rbZrjmc" 
+    src="https://www.youtube.com/embed/BDK4rbZrjmc" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen 
