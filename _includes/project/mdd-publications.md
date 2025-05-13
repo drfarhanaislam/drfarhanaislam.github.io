@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications – Antidepressant Outcomes in Depression
-permalink: /projects/mdd-publications/
+permalink: /project/mdd-publications/
 ---
 
 ## Relevant Publications
