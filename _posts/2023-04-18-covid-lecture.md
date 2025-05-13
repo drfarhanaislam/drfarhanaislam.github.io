@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Management of COVID-19
+title:  Lecture on Management of COVID-19
 date:   2022-01-25
 updated: 2025-05-13
 tags: [outreach, covid, lecture]
