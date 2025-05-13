@@ -9,6 +9,7 @@ splash_img_source: /assets/img/pharmacy_lecture.jpg
 
 I was invited to give a guest lecture on the management of COVID-19 illustrated with case studies to third-year pharmacy students. I gave this lecture while sick with hyperemesis gravidarum. The show must go on!
 
+1/3
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
   <iframe 
     src="https://www.youtube.com/watch?v=LUWrOgRnXaY" 
@@ -19,6 +20,7 @@ I was invited to give a guest lecture on the management of COVID-19 illustrated 
   </iframe>
 </div>
 
+2/3
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
   <iframe 
     src="https://www.youtube.com/watch?v=VHg3wzzXxe4" 
@@ -29,6 +31,7 @@ I was invited to give a guest lecture on the management of COVID-19 illustrated 
   </iframe>
 </div>
 
+3/3
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
   <iframe 
     src="https://www.youtube.com/watch?v=BDK4rbZrjmc" 
