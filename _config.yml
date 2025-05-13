@@ -1,16 +1,16 @@
-title: Pudhina Fresh # Shown in header on pages with full_logo: true
-short_logo: PF. # Shown in header on all pages by default unless full_logo: true is set
+title: Dr. Farhana Islam # Shown in header on pages with full_logo: true
+short_logo: Dr. Farhana Islam # Shown in header on all pages by default unless full_logo: true is set
 description: > # The description for your site
-  A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
-url: "https://ritijjain.github.io/pudhina-fresh" # Site base URL
+  Hi, I’m Farhana. I am a researcher, educator, and life-long learner. I have a PhD from the Department of Pharmacology and Toxicology at the University of Toronto. My doctoral research, in the field of Psychiatric Pharmacogenetics, investigated the genetic contribution to antidepressant and antipsychotic drug response, side effects, and pharmacokinetics in individuals with depression and schizophrenia.
+url: "https://drfarhanaislam.github.io" # Site base URL
 
 author:
-  name: Ritij Jain
-  github: ritijjain/pudhina-fresh # GitHub username, used for GitHub icon on the top right
-  linkedin: ritijjain # Your LinkedIn profile url name, used for LinkedIn icon on the top right
-  email: example@example.com # Used for email icon on the top right
+  name: Farhana Islam
+  github: drfarhanaislam # GitHub username, used for GitHub icon on the top right
+  linkedin: https://www.linkedin.com/in/farhanai/  # Your LinkedIn profile url name, used for LinkedIn icon on the top right
+  email: farhanaislam@hotmail.com # Used for email icon on the top right
   homepage: https://ritijjain.com # This links to your name in post meta
-  twitter: # Twitter username, used for Twitter Card Analytics 
+  twitter: FarhanaI7 # Twitter username, used for Twitter Card Analytics 
 
 disqus_name: # Setting this will turn on Disqus comments
 g_track_id: # Google Analytics tracking ID (e.g. UA-000000-2), setting this will turn on Google Analytics
