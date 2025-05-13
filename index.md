@@ -2,7 +2,7 @@
 layout: page
 full_logo: true
 title: 
-subtitle: 
+subtitle: Scientist | Educator | Writer | Activist
 description: Scientist   |    Educator   |   Writer   | Activist
 sitemap:
   priority: 1.0
@@ -16,13 +16,6 @@ sitemap:
     margin-top: 2rem;
   }
 
-  .profile-left {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    max-width: 200px;
-  }
-
   .profile-image {
     width: 180px;
     height: auto;
@@ -31,11 +24,10 @@ sitemap:
 
   .describe-text {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 500;
     line-height: 1.2em;
-    margin-top: 1rem;
-    text-align: center;
+    margin-bottom: 1rem;
   }
 
   .bio-section {
@@ -56,21 +48,22 @@ sitemap:
 </style>
 
 <div class="profile-container">
-  <div class="profile-left">
-    <img src="/assets/img/headshot_fi_unionville.jpg" alt="Farhana Islam" class="profile-image">
+  <img src="/assets/img/headshot_fi_unionville2.jpg" alt="Farhana Islam" class="profile-image">
+
+  <div>
     <p class="describe-text">Scientist | Educator | Writer | Activist</p>
-  </div>
 
-  <div class="bio-section">
-    <p>Hi, I’m Farhana. I am passionate about using data-driven approaches to improve quality of care and health outcomes to ultimately advance precision medicine.</p>
+    <div class="bio-section">
+      <p>Hi, I’m Farhana. I am passionate about using data-driven approaches to improve quality of care and health outcomes to ultimately advance precision medicine.</p>
 
-    <p>My expertise includes bioinformatics approaches, such as candidate gene association studies, genome-wide association studies (GWAS), polygenic risk score analysis, and Mendelian randomization. I leverage these tools to investigate the genetic and biological underpinnings of complex traits and treatment responses. I also have experience working with clinical and healthcare administrative data to report on indicators of quality of care and identify opportunities for quality improvement.</p>
+      <p>My expertise includes bioinformatics approaches, such as candidate gene association studies, genome-wide association studies (GWAS), polygenic risk score analysis, and Mendelian randomization. I leverage these tools to investigate the genetic and biological underpinnings of complex traits and treatment responses. I also have experience working with clinical and healthcare administrative data to report on indicators of quality of care and identify opportunities for quality improvement.</p>
 
-    <p>I hold a PhD from the Faculty of Medicine at the University of Toronto, where my doctoral research in Psychiatric Pharmacogenetics explored the genetic contributions to antidepressant and antipsychotic treatment outcomes, side effects, and pharmacokinetics in individuals with depression and schizophrenia.</p>
+      <p>I hold a PhD from the Faculty of Medicine at the University of Toronto, where my doctoral research in Psychiatric Pharmacogenetics explored the genetic contributions to antidepressant and antipsychotic treatment outcomes, side effects, and pharmacokinetics in individuals with depression and schizophrenia.</p>
 
-    <p>Currently, I am conducting research at the Hospital for Sick Children, focused on improving outcomes for hospitalized children and adolescents. I also contribute to teaching data science, bioinformatic, and behavioural genetic courses at the undergraduate and graduate level at the University of Toronto.</p>
+      <p>Currently, I am conducting research at the Hospital for Sick Children, focused on improving outcomes for hospitalized children and adolescents. I also contribute to teaching data science, bioinformatic, and behavioural genetic courses at the undergraduate and graduate level at the University of Toronto.</p>
 
-    <p>For questions or collaborations, you can reach me by email at <a href="mailto:farhanaislam@hotmail.com">farhanaislam@hotmail.com</a>. Here is a link to my <a href="#">CV</a>.</p>
+      <p>For questions or collaborations, you can reach me by email at <a href="mailto:farhanaislam@hotmail.com">farhanaislam@hotmail.com</a>. Here is a link to my <a href="#">CV</a>.</p>
+    </div>
   </div>
 </div>
 
