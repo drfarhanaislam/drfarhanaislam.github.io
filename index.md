@@ -7,7 +7,7 @@ description: Researcher | Educator | Life-Long Learner
 sitemap:
   priority: 1.0
 ---
-<p class="describe-text">Researcher | Educator | Data Scientist</p>
+<p class="describe-text">Scientist | Educator | Writer | Activist</p>
 <br>
 Hi, I’m Farhana. I am passionate about using data-driven approaches to improve quality of care and health outcomes, with a long-term goal of advancing precision medicine. 
 
