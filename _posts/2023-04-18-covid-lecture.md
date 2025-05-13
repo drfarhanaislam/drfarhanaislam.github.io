@@ -3,7 +3,6 @@ layout: post
 title:  Management of COVID-19
 date:   2022-01-25
 updated: 2025-05-13
-pin: true
 tags: [outreach, covid, lecture]
 splash_img_source: /assets/img/pharmacy_lecture.jpg
 ---
