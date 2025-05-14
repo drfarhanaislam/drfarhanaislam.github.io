@@ -5,7 +5,7 @@ permalink: /project/mdd-publications/
 ---
 
 <div style="text-align: center;">
-  <h2>My Publications on Antidepressants and Depression</h2>
+  <h2>My Publications: Antidepressants and Depression</h2>
 </div>
 <br>
 #### CYP2C19 and CYP2D6 gene variants effects on antidepressant response, side effects, and blood concentrations 
@@ -31,24 +31,25 @@ permalink: /project/mdd-publications/
   </li>
 </ul>
 </div>
-
-### CYP2C19 and CYP2D6 gene variants effects on antidepressant-induced sexual side effects
 <br>
-<div class="paper2">
+#### CYP2C19 and CYP2D6 gene variants effects on antidepressant-induced sexual side effects 
+<br>
+<div class="paper1">
 <ul style="list-style-type: none; padding-left: 0;">
   <li style="margin-bottom: 2em;">
-    <strong>Islam, F.</strong>, et al. (2023).  
+    <strong>Islam, F.</strong>, et al. (2024).  
     <em>Influence of CYP2C19, CYP2D6, and ABCB1 Gene Variants and Serum Levels of Escitalopram and Aripiprazole on Treatment-Emergent Sexual Dysfunction: A Canadian Biomarker Integration Network in Depression 1 (CAN-BIND 1) Study.</em>  
     <i>The Canadian Journal of Psychiatry</i>. <a href="/assets/pdfs/islam2024_sexual_side_effects.pdf" target="_blank">[PDF]</a>
   </li>
 
   <li style="display: flex; gap: 2em; align-items: flex-start; margin-bottom: 3em; flex-wrap: wrap;">
-    <div style="flex: 1 1 50%;">
-      <img src="/assets/img/sexual_side_effects.jpg" alt="Sexual side effects figure" style="width: 100%; height: auto; border: 1px solid #ccc; padding: 10px;">
+    <div style="flex: 1 1 50%; text-align: center;">
+      <img src="/assets/img/sexual_side_effects.jpg" alt="Sexual side effects figure" style="width: 50%; height: auto; border: 1px solid #ccc; padding: 10px;">
     </div>
     <div style="flex: 1 1 50%;">
-      <p style="font-size: 0.9em; font-style: italic; color: #555; margin: 0; line-height: 1.4em;">
-        Proposed model explaining the effects of variations in CYP2C19 on sexual arousal functions. (a) ESC biotransformation pathway. (b) Genetic differences in the metabolism of ESC by CYP2C19 are expected to contribute to variations in treatment-emergent dysfunctions in sexual arousal that some patients on SSRIs experience. Specifically, individuals with gene variants contributing to elevated brain concentrations of S-DCT (i.e., CYP2C19 NMs), which itself is active as a serotonin reuptake inhibitor with potency comparable to the parent compound, are expected to have increased serotonin neurotransmission leading to enhanced inhibition of brain circuitry mediating sexual arousal. As a result, these individuals may experience more negative effects of the medication on their ability to have and sustain vaginal lubrication in females and erection in males. ESC = escitalopram; NM = normal metabolizer; S-DCT = S-desmethylcitalopram.
+      <p style="font-size: 1em; font-style: italic; color: #555; margin: 0; line-height: 1.4em;">
+        Proposed model explaining the effects of variations in CYP2C19 on sexual arousal functions. (a) ESC biotransformation pathway. (b) Genetic differences in the metabolism of ESC by CYP2C19 are expected to contribute to variations in treatment-emergent dysfunctions in sexual arousal that some patients on SSRIs experience. Specifically, individuals with gene variants contributing to elevated brain concentrations of S-DCT (i.e., CYP2C19 NMs), which itself is active as a serotonin reuptake inhibitor with potency comparable to the parent compound, are expected to have increased serotonin neurotransmission leading to enhanced inhibition of brain circuitry mediating sexual arousal. As a result, these individuals may experience more negative effects of the medication on their ability to have and sustain vaginal lubrication in females and erection in males. </p>
+        <p style="font-size: 1em; font-style: italic; color: #555; margin: 0; line-height: 1.4em;">ESC = escitalopram; NM = normal metabolizer; S-DCT = S-desmethylcitalopram.
       </p>
     </div>
   </li>
