@@ -1,4 +1,4 @@
 ---
 permalink: /resume
-redirect_link: https://ritijjain.com/assets/files/Resume.pdf
+redirect_link: assets/js/CV 2025 Farhana Islam website.pdf
 ---
