@@ -34,7 +34,7 @@ sitemap:
 
   .bio-section {
     font-family: "Georgia", serif;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 1.2em;
     color: #333;
     max-width: 800px;
