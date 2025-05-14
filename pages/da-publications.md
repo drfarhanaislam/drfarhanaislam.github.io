@@ -20,7 +20,7 @@ permalink: /project/da-publications/
 
   <li style="display: flex; gap: 2em; align-items: flex-start; margin-bottom: 3em; flex-wrap: wrap;">
     <div style="flex: 1 1 50%; text-align: center;">
-      <img src="/assets/img/amph_rat.jepg" alt="Mean (±SEM) difference in time (s) spent in drug-paired side during pre-conditioning (averaged over three sessions) and test session." style="width: 50%; height: auto; border: 1px solid #ccc; padding: 10px;">
+      <img src="/assets/img/amph_rat.jpg" alt="Mean (±SEM) difference in time (s) spent in drug-paired side during pre-conditioning (averaged over three sessions) and test session." style="width: 50%; height: auto; border: 1px solid #ccc; padding: 10px;">
     </div>
     <div style="flex: 1 1 50%;">
       <p style="font-size: 1em; font-style: italic; color: #555; margin: 0; line-height: 1.4em;">
