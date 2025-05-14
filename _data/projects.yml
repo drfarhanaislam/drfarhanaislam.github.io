@@ -25,7 +25,7 @@
 
 - name: Reward and Dopamine
   id: da
-  img_src: /assets/img/rat.jpeg
+  img_src: /assets/img/rat_cartoon.jpg
   description_less: What is the role of dopamine signalling in reward-related learning?
   description_more: >
     <p>For my masters thesis, I investigated the effect of dopamine and the Wnt signalling pathway on reward and incentive learning using rat behavioural models.</p>
