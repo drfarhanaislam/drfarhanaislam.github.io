@@ -7,7 +7,7 @@ tags: [outreach, covid, lecture]
 splash_img_source: /assets/img/pharmacy_lecture.jpg
 ---
 
-I was invited to give a guest lecture on the management of COVID-19 illustrated with case studies to third-year pharmacy students. I gave this lecture while sick with hyperemesis gravidarum. The show must go on!
+I was invited to give a guest lecture on the management of COVID-19 illustrated with case studies to third-year pharmacy students. I was sick with hyperemesis gravidarum at the time, but the show must go on!
 
 1/3
 
