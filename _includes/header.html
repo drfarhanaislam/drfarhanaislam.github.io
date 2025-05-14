@@ -7,8 +7,10 @@
 {% endif %}
 <ul class="menu">
 <li class="menu__entry"><a href="{{ site.url }}">home</a></li>
-<li class="menu__entry"><a href="{{ site.url }}/projects">projects</a></li>
+<li class="menu__entry"><a href="{{ site.url }}/projects">research</a></li>
 <li class="menu__entry"><a href="{{ site.url }}/posts">posts</a></li>
+<li class="menu__entry"><a href="{{ site.url }}/assets/js/CV%202025%20Farhana%20Islam%20website.pdf" target="_blank">CV</a></li>
+</ul>
 </ul>
 </div>
 <ul class="social-links">
@@ -27,6 +29,11 @@
 <i class="fab fa-linkedin-in"></i>
 </a>
 {% endif %}
+{% if site.author.google_scholar %}
+  <a href="{{ site.author.google_scholar }}" target="_blank" title="Google Scholar">
+    <i class="fab fa-google-scholar"></i> Scholar
+  </a>
+{% endif %}
 {% if site.rss %}
 <a href="{{ site.url }}/feed.xml" class="social-links__entry" target="_blank">
 <i style="color: rgba( 254, 164, 1, 100%);" class="fas fa-rss"></i>
@@ -39,11 +46,7 @@
     </a>
 {% endif %}
 
-{% if site.author.google_scholar %}
-  <a href="{{ site.author.google_scholar }}" target="_blank" title="Google Scholar">
-    <i class="fab fa-google-scholar"></i> Scholar
-  </a>
-{% endif %}
+
 
 </ul>
 </header>
