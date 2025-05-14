@@ -39,7 +39,7 @@ permalink: /project/mdd-publications/
   <li style="margin-bottom: 2em;">
     <strong>Islam, F.</strong>, et al. (2024).  
     <em>Influence of CYP2C19, CYP2D6, and ABCB1 Gene Variants and Serum Levels of Escitalopram and Aripiprazole on Treatment-Emergent Sexual Dysfunction: A Canadian Biomarker Integration Network in Depression 1 (CAN-BIND 1) Study.</em>  
-    The Canadian Journal of Psychiatry. <a href="/assets/pdfs/islam2024_sexual_side_effects.pdf" target="_blank">[PDF]</a>
+    The Canadian Journal of Psychiatry. <a href="/assets/js/islam2024_sexual_side_effects.pdf" target="_blank">[PDF]</a>
   </li>
 
   <li style="display: flex; gap: 2em; align-items: flex-start; margin-bottom: 3em; flex-wrap: wrap;">
@@ -62,12 +62,12 @@ permalink: /project/mdd-publications/
   <li style="margin-bottom: 2em;">
     <strong>Islam, F.</strong>, et al. (2024).  
     <em>Integrative Genetic Variation, DNA Methylation, and Gene Expression Analysis of Escitalopram and Aripiprazole Treatment Outcomes in Depression: A CAN-BIND-1 Study.</em>  
-    Pharmacopsychiatry. <a href="/assets/pdfs/islam2024_epi_rna.pdf" target="_blank">[PDF]</a>
+    Pharmacopsychiatry. <a href="/assets/js/islam2024_epi_rna.pdf" target="_blank">[PDF]</a>
   </li>
 
   <li style="display: flex; gap: 2em; align-items: flex-start; margin-bottom: 3em; flex-wrap: wrap;">
     <div style="flex: 1 1 50%; text-align: center;">
-      <img src="/assets/img/islam2024_epi_rna.jpeg" alt="Significant mQTL SNPs associated with clinical and pharmacokinetic outcomes" style="width: 50%; height: auto; border: 1px solid #ccc; padding: 10px;">
+      <img src="/assets/img/rna_pic1.jpg" alt="Significant mQTL SNPs associated with clinical and pharmacokinetic outcomes" style="width: 50%; height: auto; border: 1px solid #ccc; padding: 10px;">
     </div>
     <div style="flex: 1 1 50%;">
       <p style="font-size: 1em; font-style: italic; color: #555; margin: 0; line-height: 1.4em;">
