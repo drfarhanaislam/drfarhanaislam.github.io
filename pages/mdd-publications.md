@@ -7,8 +7,9 @@ permalink: /project/mdd-publications/
 <div style="text-align: center;">
   <h2>My Publications on Antidepressants and Depression</h2>
 </div>
-
-### CYP2C19 and CYP2D6 gene variants effects on antidepressant response, side effects, and blood concentrations 
+<br>
+<br>
+#### CYP2C19 and CYP2D6 gene variants effects on antidepressant response, side effects, and blood concentrations 
 <br>
 <div class="paper1">
 <ul style="list-style-type: none; padding-left: 0;">
@@ -20,7 +21,7 @@ permalink: /project/mdd-publications/
 
   <li style="display: flex; gap: 2em; align-items: flex-start; margin-bottom: 3em; flex-wrap: wrap;">
     <div style="flex: 1 1 50%;">
-      <img src="/assets/img/cyp_pic1.jpg" alt="Symptom improvement over time" style="width: 100%; height: auto; border: 1px solid #ccc; padding: 10px;">
+      <img src="/assets/img/cyp_pic1.jpg" alt="Symptom improvement over time" style="width: 50%; height: auto; border: 1px solid #ccc; padding: 10px;">
     </div>
     <div style="flex: 1 1 50%;">
       <p style="font-size: 0.9em; font-style: italic; color: #555; margin: 0; line-height: 1.4em;">
