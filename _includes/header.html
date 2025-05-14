@@ -38,5 +38,12 @@
         <i style="color: rgba( 254, 164, 1, 100%);" id="dark_mode_toggle" class="fas fa-sun"></i>
     </a>
 {% endif %}
+
+{% if site.author.google_scholar %}
+  <a href="{{ site.author.google_scholar }}" target="_blank" title="Google Scholar">
+    <i class="fab fa-google-scholar"></i> Scholar
+  </a>
+{% endif %}
+
 </ul>
 </header>

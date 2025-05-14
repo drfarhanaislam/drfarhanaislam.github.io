@@ -10,7 +10,8 @@ author:
   linkedin: https://www.linkedin.com/in/farhanai/  # Your LinkedIn profile url name, used for LinkedIn icon on the top right
   email: farhanaislam@hotmail.com # Used for email icon on the top right
   homepage: https://ritijjain.com # This links to your name in post meta
-  twitter: FarhanaI7 # Twitter username, used for Twitter Card Analytics 
+  twitter: FarhanaI7 # Twitter username, used for Twitter Card Analytics
+  google_scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=wFqLDl0AAAAJ 
 
 disqus_name: # Setting this will turn on Disqus comments
 g_track_id: # Google Analytics tracking ID (e.g. UA-000000-2), setting this will turn on Google Analytics
