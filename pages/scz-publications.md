@@ -20,7 +20,7 @@ permalink: /project/scz-publications/
 
   <li style="display: flex; gap: 2em; align-items: flex-start; margin-bottom: 3em; flex-wrap: wrap;">
     <div style="flex: 1 1 50%; text-align: center;">
-      <img src="/assets/img/working_memory_clz.jpeg" alt="Hypothesised model for the effect of CHRM1 rs2075748-T and rs1942499-A haplotype on the association between CLZ/NDMC ratio and working memory" style="width: 50%; height: auto; border: 1px solid #ccc; padding: 10px;">
+      <img src="/assets/img/working_memory_clz.jpg" alt="Hypothesised model for the effect of CHRM1 rs2075748-T and rs1942499-A haplotype on the association between CLZ/NDMC ratio and working memory" style="width: 50%; height: auto; border: 1px solid #ccc; padding: 10px;">
     </div>
     <div style="flex: 1 1 50%;">
       <p style="font-size: 1em; font-style: italic; color: #555; margin: 0; line-height: 1.4em;">
@@ -53,7 +53,7 @@ permalink: /project/scz-publications/
 </ul>
 </div>
 <br>
-#### Genetic variation, DNA methylation, and gene expression analysis of antidepressant response 
+#### Influence of genetic factors on the efficacy and tolerability of antipsychotic treatment 
 <br>
 <div class="paper3">
 <ul style="list-style-type: none; padding-left: 0;">

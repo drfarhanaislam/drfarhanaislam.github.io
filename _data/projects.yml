@@ -30,7 +30,7 @@
   description_more: >
     <p>For my masters thesis, I investigated the effect of dopamine and the Wnt signalling pathway on reward and incentive learning using rat behavioural models.</p>
   action_buttons: >
-    <a href="/project/mdd-publications/" class="btn btn-dark mb-1" target="_blank">
+    <a href="/project/da-publications/" class="btn btn-dark mb-1" target="_blank">
     <i class="fas fa-align-right"></i> &nbsp Research
     </a>
   tags: [reward, dopamine, amphetamine]
@@ -41,8 +41,4 @@
   description_less: How can we improve quality of care and outcomes for hospitalized children and adolescents?
   description_more: >
     <p>Leveraging clinical and healthcare administrative data, my research focuses on improving the care and outcomes for hospitalized children and their families in general paediatric settings.</p>
-  action_buttons: >
-    <a href="/project/mdd-publications/" class="btn btn-dark mb-1" target="_blank">
-    <i class="fas fa-align-right"></i> &nbsp Research
-    </a>
   tags: [pediatrics, care, hospital]
