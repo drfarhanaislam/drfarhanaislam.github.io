@@ -248,12 +248,12 @@ a.logo:hover {
 }
 
 /* =Small screen */ /*************************************************************/
-@media (max-width: 600px) {
+@media (max-width: 500px) {
   p,
   ul,
   ol,
   dl {
-    font-size: 100%;
+    font-size: 80%;
     line-height: 1.6;
   }
 
@@ -305,8 +305,8 @@ a.logo:hover {
 
 .post-card-image {
   border-radius: 0.25rem;
-  width: 100%;
-  height: 100%;
+  width: 80%;
+  height: 80%;
   filter: brightness(96%);
   object-fit: cover;
 }
