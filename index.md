@@ -53,7 +53,7 @@ sitemap:
 </style>
 
 <div class="profile-container">
-  <img src="/assets/img/headshot_fi_unionville2.jpg" alt="Farhana Islam" class="profile-image">
+  <img src="/assets/img/headshot_fi_2025.jpg" alt="Farhana Islam" class="profile-image">
 
   <p class="describe-text">Scientist | Educator | Writer | Activist</p>
 
