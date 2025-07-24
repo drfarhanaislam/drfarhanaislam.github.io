@@ -3,7 +3,7 @@ layout: page
 full_logo: true
 title: 
 subtitle: 
-description: Scientist   |    Educator   |   Writer   | Activist
+description: Scientist   |    Educator   |   Writer 
 sitemap:
   priority: 1.0
 ---
@@ -55,7 +55,7 @@ sitemap:
 <div class="profile-container">
   <img src="/assets/img/headshot_fi_2025.jpg" alt="Farhana Islam" class="profile-image">
 
-  <p class="describe-text">Scientist | Educator | Writer | Activist</p>
+  <p class="describe-text">Scientist | Educator | Writer</p>
 
   <div class="bio-section">
     <p>Hi, I’m Farhana. I am passionate about using data-driven approaches to improve quality of care and health outcomes for patients, with the ultimate goal of advancing precision medicine.</p>
