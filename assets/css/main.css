@@ -634,8 +634,12 @@ a.logo:hover {
   }
 }
 
-/* === Research dropdown hover behavior === */
+/* === Navbar dropdown hover fix === */
 .nav-item.dropdown:hover .dropdown-menu {
   display: block;
   margin-top: 0;
 }
+.navbar-nav .dropdown-menu {
+  margin-top: 0;
+}
+
