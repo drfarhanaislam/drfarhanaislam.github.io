@@ -7,17 +7,13 @@
 {% endif %}
 <ul class="menu">
 <li class="menu__entry"><a href="{{ site.url }}">home</a></li>
-<li class="nav-item dropdown">
-  <a class="nav-link dropdown-toggle" href="{{ site.url }}/projects/" id="navbarDropdownResearch"
-     role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
-     onclick="location.href='{{ site.url }}/projects/';">
-    research
-  </a>
-  <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownResearch">
-    <a class="dropdown-item" href="{{ site.url }}/project/mdd-publications/">Antidepressants and depression</a>
-    <a class="dropdown-item" href="{{ site.url }}/project/scz-publications/">Antipsychotics and schizophrenia</a>
-    <a class="dropdown-item" href="{{ site.url }}/project/da-publications/">Dopamine and reward</a>
-  </div>
+<li class="menu__entry dropdown">
+  <a href="{{ site.url }}/projects/" class="dropdown__toggle">research</a>
+  <ul class="dropdown__menu">
+    <li><a href="{{ site.url }}/project/mdd-publications/">Antidepressants and depression</a></li>
+    <li><a href="{{ site.url }}/project/scz-publications/">Antipsychotics and schizophrenia</a></li>
+    <li><a href="{{ site.url }}/project/da-publications/">Dopamine and reward</a></li>
+  </ul>
 </li>
 <li class="menu__entry"><a href="{{ site.url }}/posts">teaching</a></li>
 <li class="menu__entry"><a href="{{ site.url }}/pubs">publications</a></li>
