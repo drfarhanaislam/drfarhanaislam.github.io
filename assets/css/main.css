@@ -633,3 +633,9 @@ a.logo:hover {
     text-shadow: -1px 0 0 blue, 1px 0 0 lime;
   }
 }
+
+/* === Research dropdown hover behavior === */
+.nav-item.dropdown:hover .dropdown-menu {
+  display: block;
+  margin-top: 0;
+}
