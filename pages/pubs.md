@@ -8,9 +8,15 @@ permalink: /pubs/
 
 <h3>Primary Author</h3>
 <ul>
-  <li><strong>Islam, F.</strong>, et al. (2024). <em>Integrative genetic variation, DNA methylation, and gene expression analysis of escitalopram and aripiprazole treatment outcomes in depression: a CAN-BIND-1 study.</em> <i>Pharmacopsychiatry</i>, 57(5), 232-244.</li>
+  <li><strong>Islam, F.</strong>, et al. (2024). <em><a href="https://doi.org/10.xxxx/xxxxx" target="_blank" rel="noopener">Integrative genetic variation, DNA methylation, and gene expression analysis of escitalopram and aripiprazole treatment outcomes in depression: a CAN-BIND-1 study.</a></em> <i>Pharmacopsychiatry</i>, 57(5), 232-244. &nbsp;•&nbsp;
+  <a href="{{ '/assets/papers/Islam 2024 - Integrative genetic variation, DNA methylation, and gene expression analysis of escitalopram and aripiprazole treatment outcomes in depression.pdf' | relative_url }}" target="_blank" rel="noopener">PDF</a>
+  &nbsp;|&nbsp;
+</li>
 
-  <li><strong>Islam, F.</strong>, et al. (2024). <em>Influence of CYP2C19, CYP2D6, and ABCB1 Gene Variants and Serum Levels of Escitalopram and Aripiprazole on Treatment-Emergent Sexual Dysfunction: A CAN-BIND-1 Study.</em> <i>Canadian Journal of Psychiatry</i>, 69(3), 183-195.</li>
+  <li><strong>Islam, F.</strong>, et al. (2024). <em><a href="https://pmc-ncbi-nlm-nih-gov.myaccess.library.utoronto.ca/articles/PMC10874600/" target="_blank" rel="noopener">Influence of CYP2C19, CYP2D6, and ABCB1 Gene Variants and Serum Levels of Escitalopram and Aripiprazole on Treatment-Emergent Sexual Dysfunction: A CAN-BIND-1 Study.</a></em> <i>Canadian Journal of Psychiatry</i>, 69(3), 183-195.&nbsp;•&nbsp;
+  <a href="{{ '/assets/papers/Islam 2024 - Influence of CYP2C19, CYP2D6, and ABCB1 Gene Variants and Serum Levels of Escitalopram and Aripiprazole on Treatment-Emergent Sexual Dysfunction.pdf' | relative_url }}" target="_blank" rel="noopener">PDF</a>
+  &nbsp;|&nbsp;
+</li>
 
   <li><strong>Islam, F.</strong>, et al. (2022). <em>Effects of CYP2C19 and CYP2D6 gene variants on escitalopram and aripiprazole treatment outcome and serum levels: results from the CAN-BIND 1 study.</em> <i>Translational Psychiatry</i>, 12(1), 366.</li>
 
@@ -47,3 +53,4 @@ permalink: /pubs/
 </ul>
 
 <p>See full list and abstracts on <a href="https://scholar.google.com/citations?user=wFqLDl0AAAAJ" target="_blank">Google Scholar</a>.</p>
+
