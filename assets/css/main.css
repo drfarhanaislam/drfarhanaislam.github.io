@@ -634,12 +634,57 @@ a.logo:hover {
   }
 }
 
-/* === Navbar dropdown hover fix === */
-.nav-item.dropdown:hover .dropdown-menu {
-  display: block;
-  margin-top: 0;
+/* === Research dropdown (pure CSS; theme-compatible) === */
+.menu { white-space: nowrap; } /* keep header on one line */
+
+.menu .dropdown {
+  position: relative;
+  display: inline-block; /* match .menu__entry layout */
 }
-.navbar-nav .dropdown-menu {
-  margin-top: 0;
+
+.menu .dropdown__toggle {
+  text-decoration: none;
+}
+
+.menu .dropdown__toggle::after {
+  content: " \25BE"; /* ▼ caret */
+  font-size: 0.8em;
+  margin-left: 0.25em;
+}
+
+.menu .dropdown__menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;               /* align under the word “research” */
+  z-index: 1000;
+  min-width: 260px;
+  margin: 6px 0 0 0;
+  padding: 0.5rem 0;
+  background: #fff;
+  border: 1px solid #e5e5e5;
+  border-radius: 8px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+}
+
+.menu .dropdown:hover .dropdown__menu {
+  display: block;
+}
+
+.menu .dropdown__menu li {
+  display: block;
+  margin: 0;            /* override .menu__entry spacing for submenu items */
+}
+
+.menu .dropdown__menu a {
+  display: block;
+  padding: 0.45rem 0.9rem;
+  color: #333;
+  text-decoration: none;
+  white-space: normal;  /* let long labels wrap inside the dropdown */
+}
+
+.menu .dropdown__menu a:hover {
+  background: #f7f7f7;
 }
 
