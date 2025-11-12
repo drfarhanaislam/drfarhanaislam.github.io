@@ -8,6 +8,7 @@
     <a href="/project/mdd-publications/" class="btn btn-info mb-1">
     <i class="fas fa-align-right"></i> &nbsp See the research here
     </a>
+  link: /project/mdd-publications/
   tags: [antidepressant, depression, epigenetics, genetics, pharmacogenetics] # A list of tags
 
 
@@ -21,6 +22,7 @@
     <a href="/project/scz-publications/" class="btn btn-info mb-1" target="_blank">
     <i class="fas fa-align-right"></i> &nbsp See the research here
     </a>
+  link: /project/scz-publications/
   tags: [schizophrenia, pharmacogenetics, clozapine]
 
 - name: Reward and Dopamine
@@ -33,6 +35,7 @@
     <a href="/project/da-publications/" class="btn btn-info mb-1" target="_blank">
     <i class="fas fa-align-right"></i> &nbsp See the research here
     </a>
+  link: /project/da-publications/
   tags: [reward, dopamine, amphetamine]
 
 - name: Improving care and outcome of hospitalized children
