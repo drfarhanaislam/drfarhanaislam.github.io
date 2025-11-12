@@ -8,7 +8,7 @@ permalink: /pubs/
 
 <h3>Primary Author</h3>
 <ul>
-  <li><strong>Islam, F.</strong>, et al. (2024). <em><a href="https://pubmed-ncbi-nlm-nih-gov.myaccess.library.utoronto.ca/38917846/" target="_blank" rel="noopener">Integrative genetic variation, DNA methylation, and gene expression analysis of escitalopram and aripiprazole treatment outcomes in depression: a CAN-BIND-1 study.</a></em> <i>Pharmacopsychiatry</i>, 57(5), 232-244.
+  <li><strong>Islam, F.</strong>, et al. (2024). <em>Integrative genetic variation, DNA methylation, and gene expression analysis of escitalopram and aripiprazole treatment outcomes in depression: a CAN-BIND-1 study.</em> <i>Pharmacopsychiatry</i>, 57(5), 232-244.
   <a href="{{ '/assets/papers/Islam 2024 - Integrative genetic variation, DNA methylation, and gene expression analysis of escitalopram and aripiprazole treatment outcomes in depression.pdf' | relative_url }}" target="_blank" rel="noopener">PDF</a>
 </li>
 
@@ -81,6 +81,7 @@ permalink: /pubs/
 </ul>
 
 <p>See full list and abstracts on <a href="https://scholar.google.com/citations?user=wFqLDl0AAAAJ" target="_blank">Google Scholar</a>.</p>
+
 
 
 
