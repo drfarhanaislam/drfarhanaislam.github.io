@@ -5,7 +5,7 @@
   description_more: > # Description shown only when the project card is expanded, HTML only
     <p>My doctoral research investigated the affects of genetic and epigenetic variation on how individuals diagnosed with depression responds to antidepressants and the side effects they experience. </p> 
   action_buttons: > # Action buttons for project, HTML only
-    <a href="/project/mdd-publications/" class="btn btn-dark mb-1">
+    <a href="/project/mdd-publications/" class="btn btn-primary mb-1">
     <i class="fas fa-align-right"></i> &nbsp See the research here
     </a>
   tags: [antidepressant, depression, epigenetics, genetics, pharmacogenetics] # A list of tags
@@ -18,7 +18,7 @@
   description_more: >
     <p>I investigated the contribution of genetic variation on the effect of clozapine, a commonly prescribed antipsychotic, on working memory deficits and risk for side effects in individuals with schizophrenia.</p>
   action_buttons: >
-    <a href="/project/scz-publications/" class="btn btn-dark mb-1" target="_blank">
+    <a href="/project/scz-publications/" class="btn btn-primary mb-1" target="_blank">
     <i class="fas fa-align-right"></i> &nbsp See the research here
     </a>
   tags: [schizophrenia, pharmacogenetics, clozapine]
@@ -30,7 +30,7 @@
   description_more: >
     <p>For my masters thesis, I investigated the effect of dopamine and the Wnt signalling pathway on reward and incentive learning using rat behavioural models.</p>
   action_buttons: >
-    <a href="/project/da-publications/" class="btn btn-dark mb-1" target="_blank">
+    <a href="/project/da-publications/" class="btn btn-primary mb-1" target="_blank">
     <i class="fas fa-align-right"></i> &nbsp See the research here
     </a>
   tags: [reward, dopamine, amphetamine]
