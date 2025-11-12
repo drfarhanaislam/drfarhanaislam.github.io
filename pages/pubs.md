@@ -8,29 +8,54 @@ permalink: /pubs/
 
 <h3>Primary Author</h3>
 <ul>
-  <li><strong>Islam, F.</strong>, et al. (2024). <em><a href="https://doi.org/10.xxxx/xxxxx" target="_blank" rel="noopener">Integrative genetic variation, DNA methylation, and gene expression analysis of escitalopram and aripiprazole treatment outcomes in depression: a CAN-BIND-1 study.</a></em> <i>Pharmacopsychiatry</i>, 57(5), 232-244. &nbsp;•&nbsp;
+  <li><strong>Islam, F.</strong>, et al. (2024). <em><a href="https://pubmed-ncbi-nlm-nih-gov.myaccess.library.utoronto.ca/38917846/" target="_blank" rel="noopener">Integrative genetic variation, DNA methylation, and gene expression analysis of escitalopram and aripiprazole treatment outcomes in depression: a CAN-BIND-1 study.</a></em> <i>Pharmacopsychiatry</i>, 57(5), 232-244. 
+    &nbsp;•&nbsp;
   <a href="{{ '/assets/papers/Islam 2024 - Integrative genetic variation, DNA methylation, and gene expression analysis of escitalopram and aripiprazole treatment outcomes in depression.pdf' | relative_url }}" target="_blank" rel="noopener">PDF</a>
-  &nbsp;|&nbsp;
 </li>
 
-  <li><strong>Islam, F.</strong>, et al. (2024). <em><a href="https://pmc-ncbi-nlm-nih-gov.myaccess.library.utoronto.ca/articles/PMC10874600/" target="_blank" rel="noopener">Influence of CYP2C19, CYP2D6, and ABCB1 Gene Variants and Serum Levels of Escitalopram and Aripiprazole on Treatment-Emergent Sexual Dysfunction: A CAN-BIND-1 Study.</a></em> <i>Canadian Journal of Psychiatry</i>, 69(3), 183-195.&nbsp;•&nbsp;
+  <li><strong>Islam, F.</strong>, et al. (2024). <em><a href="https://pmc-ncbi-nlm-nih-gov.myaccess.library.utoronto.ca/articles/PMC10874600/" target="_blank" rel="noopener">Influence of CYP2C19, CYP2D6, and ABCB1 Gene Variants and Serum Levels of Escitalopram and Aripiprazole on Treatment-Emergent Sexual Dysfunction: A CAN-BIND-1 Study.</a></em> <i>Canadian Journal of Psychiatry</i>, 69(3), 183-195.
+    &nbsp;•&nbsp;
   <a href="{{ '/assets/papers/Islam 2024 - Influence of CYP2C19, CYP2D6, and ABCB1 Gene Variants and Serum Levels of Escitalopram and Aripiprazole on Treatment-Emergent Sexual Dysfunction.pdf' | relative_url }}" target="_blank" rel="noopener">PDF</a>
-  &nbsp;|&nbsp;
 </li>
 
-  <li><strong>Islam, F.</strong>, et al. (2022). <em>Effects of CYP2C19 and CYP2D6 gene variants on escitalopram and aripiprazole treatment outcome and serum levels: results from the CAN-BIND 1 study.</em> <i>Translational Psychiatry</i>, 12(1), 366.</li>
+  <li><strong>Islam, F.</strong>, et al. (2022). <em>Effects of CYP2C19 and CYP2D6 gene variants on escitalopram and aripiprazole treatment outcome and serum levels: results from the CAN-BIND 1 study.</em> <i>Translational Psychiatry</i>, 12(1), 366.
+    &nbsp;•&nbsp;
+  <a href="{{ '/assets/papers/Islam 2022 - Effects of CYP2C19 and CYP2D6 gene variants on escitalopram and aripiprazole treatment outcome and serum levels.pdf' | relative_url }}" target="_blank" rel="noopener">PDF</a>
+</li>
 
-  <li><strong>Islam, F.</strong>, et al. (2022). <em>Pharmacogenomics of Clozapine-induced agranulocytosis: a systematic review and meta-analysis.</em> <i>Pharmacogenomics Journal</i>, 22(4), 230-240.</li>
+  <li><strong>Islam, F.</strong>, et al. (2022). <em>Pharmacogenomics of Clozapine-induced agranulocytosis: a systematic review and meta-analysis.</em> <i>Pharmacogenomics Journal</i>, 22(4), 230-240.
+    &nbsp;•&nbsp;
+  <a href="{{ '/assets/papers/Islam 2022 - Pharmacogenomics of Clozapine-induced agranulocytosis.pdf' | relative_url }}" target="_blank" rel="noopener">PDF</a>
+</li>
 
-  <li><strong>Islam, F.</strong>, et al. (2021). <em>Pharmacogenetics-Guided Advances in Antipsychotic Treatment.</em> <i>Clinical Pharmacology & Therapeutics</i>, 110(3), 582-588.</li>
+  <li><strong>Islam, F.</strong>, et al. (2021). <em>Pharmacogenetics-Guided Advances in Antipsychotic Treatment.</em> <i>Clinical Pharmacology & Therapeutics</i>, 110(3), 582-588.
+    &nbsp;•&nbsp;
+  <a href="{{ '/assets/papers/Islam 2021 - Pharmacogenetics‐Guided Advances in Antipsychotic Treatment.pdf' | relative_url }}" target="_blank" rel="noopener">PDF</a>
+</li>
 
-  <li><strong>Islam, F.</strong>, et al. (2021). <em>Pharmacogenetic/Pharmacogenomic Tests for Treatment Prediction in Depression.</em> <i>Advances in Experimental Medicine and Biology</i>, 1305, 231-255.</li>
+  <li><strong>Islam, F.</strong>, et al. (2021). <em>Pharmacogenetic/Pharmacogenomic Tests for Treatment Prediction in Depression.</em> <i>Advances in Experimental Medicine and Biology</i>, 1305, 231-255.
+    &nbsp;•&nbsp;
+  <a href="{{ '/assets/papers/
+Islam 2022 - Effects of CYP2C19 and CYP2D6 gene variants on escitalopram and aripiprazole treatment outcome and serum levels.pdf' | relative_url }}" target="_blank" rel="noopener">PDF</a>
+</li>
 
-  <li><strong>Islam, F.</strong>, et al. (2021). <em>Contributions of cholinergic receptor muscarinic 1 and CYP1A2 gene variants on the effects of plasma ratio of clozapine/N-desmethylclozapine on working memory in schizophrenia.</em> <i>Journal of Psychopharmacology</i>, 35(1), 31-39.</li>
+  <li><strong>Islam, F.</strong>, et al. (2021). <em>Contributions of cholinergic receptor muscarinic 1 and CYP1A2 gene variants on the effects of plasma ratio of clozapine/N-desmethylclozapine on working memory in schizophrenia.</em> <i>Journal of Psychopharmacology</i>, 35(1), 31-39.
+    &nbsp;•&nbsp;
+  <a href="{{ '/assets/papers/
+Islam 2022 - Effects of CYP2C19 and CYP2D6 gene variants on escitalopram and aripiprazole treatment outcome and serum levels.pdf' | relative_url }}" target="_blank" rel="noopener">PDF</a>
+</li>
 
-  <li><strong>Islam, F.</strong>, et al. (2017). <em>Brain-Derived Neurotrophic Factor Expression in Individuals With Schizophrenia and Healthy Aging: Testing the Accelerated Aging Hypothesis of Schizophrenia.</em> <i>Current Psychiatry Reports</i>, 19(7), 36.</li>
+  <li><strong>Islam, F.</strong>, et al. (2017). <em>Brain-Derived Neurotrophic Factor Expression in Individuals With Schizophrenia and Healthy Aging: Testing the Accelerated Aging Hypothesis of Schizophrenia.</em> <i>Current Psychiatry Reports</i>, 19(7), 36.
+    &nbsp;•&nbsp;
+  <a href="{{ '/assets/papers/
+Islam 2022 - Effects of CYP2C19 and CYP2D6 gene variants on escitalopram and aripiprazole treatment outcome and serum levels.pdf' | relative_url }}" target="_blank" rel="noopener">PDF</a>
+</li>
 
-  <li><strong>Islam, F.</strong>, et al. (2017). <em>Inhibition of Wnt signalling dose-dependently impairs the acquisition and expression of amphetamine-induced conditioned place preference.</em> <i>Behavioural Brain Research</i>, 326, 217-225.</li>
+  <li><strong>Islam, F.</strong>, et al. (2017). <em>Inhibition of Wnt signalling dose-dependently impairs the acquisition and expression of amphetamine-induced conditioned place preference.</em> <i>Behavioural Brain Research</i>, 326, 217-225.
+    &nbsp;•&nbsp;
+  <a href="{{ '/assets/papers/
+Islam 2022 - Effects of CYP2C19 and CYP2D6 gene variants on escitalopram and aripiprazole treatment outcome and serum levels.pdf' | relative_url }}" target="_blank" rel="noopener">PDF</a>
+</li>
 </ul>
 
 <h3>Co-Author</h3>
@@ -53,4 +78,5 @@ permalink: /pubs/
 </ul>
 
 <p>See full list and abstracts on <a href="https://scholar.google.com/citations?user=wFqLDl0AAAAJ" target="_blank">Google Scholar</a>.</p>
+
 
