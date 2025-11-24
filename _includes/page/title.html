@@ -2,3 +2,11 @@
     <div class="page-title__text">{{ page.title }}</div>
     <div class="page-title__subtitle">{{ page.subtitle }}</div>
 </h1>
+
+{% if page.permalink == "/posts" %}
+  <div class="page-portrait" style="text-align:center; margin-top: 1rem; margin-bottom: 1rem;">
+    <img src="/assets/img/thumbnail_IMG_7993_2.jpg"
+         alt="Portrait"
+         style="width:120px; border-radius:50%; box-shadow:0 0 10px rgba(0,0,0,0.15);" />
+  </div>
+{% endif %}
