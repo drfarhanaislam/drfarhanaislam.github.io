@@ -1,11 +1,18 @@
+<h1 class="page-title">
+  <div class="page-title__text">{{ page.title }}</div>
+  {% if page.subtitle %}
+    <div class="page-title__subtitle">{{ page.subtitle }}</div>
+  {% endif %}
+</h1>
+
 {% if page.permalink == "/posts" %}
   <div class="page-portrait" style="text-align:center; margin-top: 1.2rem; margin-bottom: 1.2rem;">
     <img src="/assets/img/thumbnail_IMG_7993_2.JPG"
          alt="Portrait"
          style="
-           width: 220px;              /* Adjust size as needed */
-           height: auto;              /* Keep original proportions */
-           border-radius: 8px;        /* Soft rounded corners */
+           width: 180px;
+           height: auto;
+           border-radius: 8px;
            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
          " />
   </div>
