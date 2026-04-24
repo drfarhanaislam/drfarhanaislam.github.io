@@ -4,10 +4,17 @@ title: Publications
 permalink: /pubs/
 ---
 
+<style>
+  .pubs-list li {
+    margin-bottom: 1.25rem;
+    line-height: 1.35;
+  }
+</style>
+
 <h2>My Publications</h2>
 
 <h3>Primary Author</h3>
-<ul>
+<ul class="pubs-list">
   <li><strong>Islam, F.</strong>, Lisoway, A., Oh, E. S., Fiori, L. M., Magarbeh, L., Elsheikh, S. S. M., Kim, H. K., Kloiber, S., Kennedy, J. L., Frey, B. N., Milev, R., Soares, C. N., Parikh, S. V., Placenza, F., Hassel, S., Taylor, V. H., Leri, F., Blier, P., Uher, R., Farzan, F., … Müller, D. J. (2024). <em>Integrative genetic variation, DNA methylation, and gene expression analysis of escitalopram and aripiprazole treatment outcomes in depression: a CAN-BIND-1 study.</em> <i>Pharmacopsychiatry</i>, 57(5), 232-244.
   <a href="{{ '/assets/papers/Islam 2024 - Integrative genetic variation, DNA methylation, and gene expression analysis of escitalopram and aripiprazole treatment outcomes in depression.pdf' | relative_url }}" target="_blank" rel="noopener">PDF</a>
 </li>
@@ -46,7 +53,7 @@ permalink: /pubs/
 </ul>
 
 <h3>Co-Author</h3>
-<ul>
+<ul class="pubs-list">
   <li>Adams, E., Lavoie-Gagnon, H., <strong>Islam, F.</strong>, Humer, M., Mou, B., Koulis, T. A., Kim, D., & Atrchian, S. (2025). <em>Effects of Palliative Esophageal External Beam Radiation Therapy in Patients with Stent for Esophageal Cancer: A Retrospective Cohort Study.</em> <i>J Gastrointest Cancer</i>, 56(1), 102.
   <a href="{{ '/assets/papers/Adams 2025 - Effects of Palliative Esophageal External Beam Radiation Therapy in Patients with Stent for Esophageal Cancer.pdf' | relative_url }}" target="_blank" rel="noopener">PDF</a>
 </li>
