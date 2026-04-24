@@ -6,8 +6,8 @@ permalink: /pubs/
 
 <style>
   .pubs-list li {
-    margin-bottom: 1.75rem;
-    line-height: 1.25;
+    margin-bottom: 1.65rem;
+    line-height: 1.35;
   }
 </style>
 
