@@ -60,7 +60,7 @@ sitemap:
   <div class="bio-section">
     <p>Hi, I’m Farhana. I am passionate about using data-driven approaches to improve quality of care and health outcomes for patients, with the ultimate goal of advancing precision medicine.</p>
 
-    <p>I hold a PhD from the Faculty of Medicine at the University of Toronto, where my doctoral research in Psychiatric Pharmacogenetics explored the genetic contributions to antidepressant and antipsychotic treatment outcomes, side effects, and pharmacokinetics in individuals with depression and schizophrenia.</p>
+    <p>I have a PhD from the Department of Pharmacology and Toxicology at the University of Toronto, where my doctoral research in Psychiatric Pharmacogenomics (PGx) explored the genetic contributions to antidepressant and antipsychotic treatment outcomes, side effects, and pharmacokinetics in individuals with depression and schizophrenia.</p>
 
     <p>My expertise includes bioinformatic approaches, such as candidate gene association studies, genome-wide association studies (GWAS), polygenic risk score analysis, and Mendelian randomization. I leverage these tools to investigate the genetic and biological underpinnings of complex traits and treatment responses. I also have experience working with clinical and healthcare administrative data to report on indicators of quality of care and identify opportunities for quality improvement.</p>
 
