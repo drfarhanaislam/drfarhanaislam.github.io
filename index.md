@@ -66,7 +66,7 @@ sitemap:
 
     <p>Currently, I am conducting research at the Hospital for Sick Children, focused on improving outcomes for hospitalized children and adolescents. I also contribute to teaching data science, bioinformatics, and behavioural genetic courses at the undergraduate and graduate level at the University of Toronto.</p>
 
-    <p>For questions or collaborations, you can reach me by email at <a href="mailto:farhanaislam@hotmail.com">farhanaislam@hotmail.com</a>. Here is a link to my <a href="#">CV</a>.</p>
+    <p>For questions or collaborations, you can reach me by email at <a href="mailto:farhanaislam@hotmail.com">farhanaislam@hotmail.com</a>. Here is a link to my <a href="/assets/js/CV%202026%20-%20Farhana%20Islam%20website.pdf" target="_blank">CV</a>.</p>
   </div>
 </div>
 
